@@ -4,108 +4,108 @@
   "name": "Prada Paradox",
   "ml": 90,
   "type": "EDP",
-  "price": 32,
+  "price": 27,
   "category": "Perfumes",
-  "image": "images/1.jpg"
+  "image": "images/1.png"
  },
  {
   "id": 2,
   "name": "My Way Giorgio Armani",
   "ml": 90,
   "type": "EDP",
-  "price": 32,
+  "price": 27,
   "category": "Perfumes",
-  "image": "images/2.jpg"
+  "image": "images/2.png"
  },
  {
   "id": 3,
   "name": "Coco Mademoiselle Chanel",
   "ml": 100,
   "type": "EDP",
-  "price": 35,
+  "price": 28,
   "category": "Perfumes",
-  "image": "images/3.jpg"
+  "image": "images/3.png"
  },
  {
   "id": 4,
   "name": "212 men Aqua",
   "ml": 100,
   "type": "EDT",
-  "price": 30,
+  "price": 26,
   "category": "Perfumes",
-  "image": "images/4.jpg"
+  "image": "images/4.png"
  },
  {
   "id": 5,
   "name": "My Burberry",
   "ml": 90,
   "type": "EDP",
-  "price": 30,
+  "price": 25,
   "category": "Perfumes",
-  "image": "images/5.jpg"
+  "image": "images/5.png"
  },
  {
   "id": 6,
   "name": "YSL Black Opium",
   "ml": 90,
   "type": "EDP",
-  "price": 32,
+  "price": 26,
   "category": "Perfumes",
-  "image": "images/6.jpg"
+  "image": "images/6.png"
  },
  {
   "id": 7,
   "name": "Jimmy Choo",
   "ml": 100,
   "type": "EDP",
-  "price": 30,
+  "price": 26,
   "category": "Perfumes",
-  "image": "images/7.jpg"
+  "image": "images/7.png"
  },
  {
   "id": 8,
   "name": "Maison Francis kurkdijian",
   "ml": 70,
   "type": "EDP",
-  "price": 28,
+  "price": 25,
   "category": "Perfumes",
-  "image": "images/8.jpg"
+  "image": "images/8.png"
  },
  {
   "id": 9,
   "name": "Dior Sauvage",
   "ml": 100,
   "type": "EDT",
-  "price": 32,
+  "price": 25,
   "category": "Perfumes",
-  "image": "images/9.jpg"
+  "image": "images/9.png"
  },
  {
   "id": 10,
   "name": "Stronger with You",
   "ml": 100,
   "type": "EDT",
-  "price": 30,
+  "price": 24,
   "category": "Perfumes",
-  "image": "images/10.jpg"
+  "image": "images/10.png"
  },
  {
   "id": 11,
   "name": "Armani Code Profumo",
   "ml": 110,
   "type": "EDP",
-  "price": 32,
+  "price": 25,
   "category": "Perfumes",
-  "image": "images/11.jpg"
+  "image": "images/11.png"
  },
  {
   "id": 12,
   "name": "Mugler Alien",
   "ml": 90,
   "type": "EDP",
-  "price": 35,
+  "price": 28,
   "category": "Perfumes",
-  "image": "images/12.jpg"
+  "image": "images/12.png"
  },
  {
   "id": 13,
@@ -114,25 +114,25 @@
   "type": "EDP",
   "price": 27,
   "category": "Perfumes",
-  "image": "images/13.jpg"
+  "image": "images/13.png"
  },
  {
   "id": 14,
   "name": "Bleu De Chanel",
   "ml": 90,
   "type": "EDP",
-  "price": 32,
+  "price": 25,
   "category": "Perfumes",
-  "image": "images/15.jpg"
+  "image": "images/14.png"
  },
  {
   "id": 15,
   "name": "Daisy Marc Jacobs",
   "ml": 100,
   "type": "EDP",
-  "price": 30,
+  "price": 24,
   "category": "Perfumes",
-  "image": "images/16.jpg"
+  "image": "images/15.png"
  },
  {
   "id": 16,
@@ -141,7 +141,7 @@
   "type": "EDT",
   "price": 27,
   "category": "Perfumes",
-  "image": "images/17.jpg"
+  "image": "images/16.png"
  },
  {
   "id": 17,
@@ -150,7 +150,7 @@
   "type": "EDP",
   "price": 28,
   "category": "Perfumes",
-  "image": "images/18.jpg"
+  "image": "images/17.png"
  },
  {
   "id": 18,
@@ -159,7 +159,7 @@
   "type": "PI",
   "price": 27,
   "category": "Perfumes",
-  "image": "images/19.jpg"
+  "image": "images/18.png"
  },
  {
   "id": 19,
@@ -168,43 +168,43 @@
   "type": "EDP",
   "price": 27,
   "category": "Perfumes",
-  "image": "images/20.jpg"
+  "image": "images/19.png"
  },
  {
   "id": 20,
   "name": "Miss Dior",
   "ml": 100,
   "type": "EDT",
-  "price": 30,
+  "price": 24,
   "category": "Perfumes",
-  "image": "images/22.jpg"
+  "image": "images/20.png"
  },
  {
   "id": 21,
   "name": "Scnadal Aparis",
   "ml": 80,
   "type": "EDT",
-  "price": 32,
+  "price": 25,
   "category": "Perfumes",
-  "image": "images/23.jpg"
+  "image": "images/21.png"
  },
  {
   "id": 22,
   "name": "Scandel le Perfum",
   "ml": 80,
   "type": "EDP",
-  "price": 30,
+  "price": 24,
   "category": "Perfumes",
-  "image": "images/24.jpg"
+  "image": "images/22.png"
  },
  {
   "id": 23,
   "name": "Daisy love",
   "ml": 100,
   "type": "EDT",
-  "price": 30,
+  "price": 24,
   "category": "Perfumes",
-  "image": "images/25.jpg"
+  "image": "images/23.png"
  },
  {
   "id": 24,
@@ -213,61 +213,61 @@
   "type": "EDP",
   "price": 29,
   "category": "Perfumes",
-  "image": "images/26.jpg"
+  "image": "images/24.png"
  },
  {
   "id": 25,
   "name": "fahrenheit",
   "ml": 100,
   "type": "EDT",
-  "price": 32,
+  "price": 25,
   "category": "Perfumes",
-  "image": "images/27.jpg"
+  "image": "images/25.png"
  },
  {
   "id": 26,
   "name": "Gucci Flora",
   "ml": 100,
   "type": "EDP",
-  "price": 32,
+  "price": 25,
   "category": "Perfumes",
-  "image": "images/28.jpg"
+  "image": "images/26.png"
  },
  {
   "id": 27,
   "name": "YSL Moon Paris",
   "ml": 90,
   "type": "EDP",
-  "price": 30,
+  "price": 24,
   "category": "Perfumes",
-  "image": "images/29.jpg"
+  "image": "images/27.png"
  },
  {
   "id": 28,
   "name": "Jadore",
   "ml": 100,
   "type": "EDT",
-  "price": 33,
+  "price": 26,
   "category": "Perfumes",
-  "image": "images/30.jpg"
+  "image": "images/28.png"
  },
  {
   "id": 29,
   "name": "BOSS",
   "ml": 100,
   "type": "EDT",
-  "price": 32,
+  "price": 25,
   "category": "Perfumes",
-  "image": "images/31.jpg"
+  "image": "images/29.png"
  },
  {
   "id": 30,
   "name": "Gaultier 2",
   "ml": 100,
   "type": "EDP",
-  "price": 30,
+  "price": 24,
   "category": "Perfumes",
-  "image": "images/32.jpg"
+  "image": "images/30.png"
  },
  {
   "id": 31,
@@ -276,34 +276,34 @@
   "type": "EDP",
   "price": 28,
   "category": "Perfumes",
-  "image": "images/34.jpg"
+  "image": "images/31.png"
  },
  {
   "id": 32,
   "name": "Chanel Allure Homme Sport",
   "ml": 100,
   "type": "EDT",
-  "price": 35,
+  "price": 28,
   "category": "Perfumes",
-  "image": "images/35.jpg"
+  "image": "images/32.png"
  },
  {
   "id": 33,
   "name": "Blue De Chanel",
   "ml": 100,
   "type": "EDP",
-  "price": 33,
+  "price": 26,
   "category": "Perfumes",
-  "image": "images/36.jpg"
+  "image": "images/33.png"
  },
  {
   "id": 34,
   "name": "CK be Calvin Klein",
   "ml": 100,
   "type": "EDT",
-  "price": 30,
+  "price": 24,
   "category": "Perfumes",
-  "image": "images/37.jpg"
+  "image": "images/34.png"
  },
  {
   "id": 35,
@@ -312,52 +312,52 @@
   "type": "EDP",
   "price": 28,
   "category": "Perfumes",
-  "image": "images/38.jpg"
+  "image": "images/35.png"
  },
  {
   "id": 36,
   "name": "YSL Libra",
   "ml": 90,
   "type": "EDP",
-  "price": 30,
+  "price": 24,
   "category": "Perfumes",
-  "image": "images/39.jpg"
+  "image": "images/36.png"
  },
  {
   "id": 37,
   "name": "Gucci Flora",
   "ml": 100,
   "type": "EDT",
-  "price": 32,
+  "price": 25,
   "category": "Perfumes",
-  "image": "images/40.jpg"
+  "image": "images/37.png"
  },
  {
   "id": 38,
   "name": "POLO Ralph Lauren Red",
   "ml": 125,
   "type": "EDT",
-  "price": 35,
+  "price": 28,
   "category": "Perfumes",
-  "image": "images/41.jpg"
+  "image": "images/38.png"
  },
  {
   "id": 39,
   "name": "Hugo Boss The scent",
   "ml": 100,
   "type": "EDT",
-  "price": 33,
+  "price": 26,
   "category": "Perfumes",
-  "image": "images/42.jpg"
+  "image": "images/39.png"
  },
  {
   "id": 40,
   "name": "My Burberry Blush",
   "ml": 90,
   "type": "EDP",
-  "price": 30,
+  "price": 24,
   "category": "Perfumes",
-  "image": "images/43.jpg"
+  "image": "images/40.png"
  },
  {
   "id": 41,
@@ -366,16 +366,16 @@
   "type": "EDT",
   "price": 28,
   "category": "Perfumes",
-  "image": "images/44.jpg"
+  "image": "images/41.png"
  },
  {
   "id": 42,
   "name": "Hugo Boss Bottled Night",
   "ml": 100,
   "type": "EDT",
-  "price": 30,
+  "price": 24,
   "category": "Perfumes",
-  "image": "images/45.jpg"
+  "image": "images/42.png"
  },
  {
   "id": 43,
@@ -384,25 +384,25 @@
   "type": "EDP",
   "price": 28,
   "category": "Perfumes",
-  "image": "images/46.jpg"
+  "image": "images/43.png"
  },
  {
   "id": 44,
   "name": "Armani SI",
   "ml": 100,
   "type": "EDP",
-  "price": 30,
+  "price": 24,
   "category": "Perfumes",
-  "image": "images/47.jpg"
+  "image": "images/44.png"
  },
  {
   "id": 45,
   "name": "Armani SI",
   "ml": 100,
   "type": "EDT",
-  "price": 32,
+  "price": 25,
   "category": "Perfumes",
-  "image": "images/48.jpg"
+  "image": "images/45.png"
  },
  {
   "id": 46,
@@ -411,7 +411,7 @@
   "type": "EDP",
   "price": 28,
   "category": "Perfumes",
-  "image": "images/49.jpg"
+  "image": "images/46.png"
  },
  {
   "id": 47,
@@ -420,61 +420,61 @@
   "type": "EDP",
   "price": 27,
   "category": "Perfumes",
-  "image": "images/51.jpg"
+  "image": "images/47.png"
  },
  {
   "id": 48,
   "name": "Chanel Vaporisateur",
   "ml": 100,
   "type": "EDP",
-  "price": 32,
+  "price": 25,
   "category": "Perfumes",
-  "image": "images/52.jpg"
+  "image": "images/48.png"
  },
  {
   "id": 49,
   "name": "Daisy marc Jacobs",
   "ml": 100,
   "type": "EDT",
-  "price": 32,
+  "price": 25,
   "category": "Perfumes",
-  "image": "images/53.jpg"
+  "image": "images/49.png"
  },
  {
   "id": 50,
   "name": "Creed",
   "ml": 120,
   "type": "VS",
-  "price": 34,
+  "price": 27,
   "category": "Perfumes",
-  "image": "images/54.jpg"
+  "image": "images/50.png"
  },
  {
   "id": 51,
   "name": "N5 Chanel",
   "ml": 100,
   "type": "EDP",
-  "price": 34,
+  "price": 25,
   "category": "Perfumes",
-  "image": "images/57.jpg"
+  "image": "images/51.png"
  },
  {
   "id": 52,
   "name": "Aventus Creed",
   "ml": 120,
   "type": "VS",
-  "price": 35,
+  "price": 28,
   "category": "Perfumes",
-  "image": "images/58.jpg"
+  "image": "images/52.png"
  },
  {
   "id": 53,
   "name": "212 Men NYC",
   "ml": 100,
   "type": "EDT",
-  "price": 30,
+  "price": 24,
   "category": "Perfumes",
-  "image": "images/60.jpg"
+  "image": "images/53.png"
  },
  {
   "id": 54,
@@ -483,7 +483,7 @@
   "type": "EDP",
   "price": 28,
   "category": "Perfumes",
-  "image": "images/61.jpg"
+  "image": "images/54.png"
  },
  {
   "id": 55,
@@ -492,7 +492,7 @@
   "type": "EDT",
   "price": 28,
   "category": "Perfumes",
-  "image": "images/62.jpg"
+  "image": "images/55.png"
  },
  {
   "id": 56,
@@ -501,7 +501,7 @@
   "type": "EDT",
   "price": 27,
   "category": "Perfumes",
-  "image": "images/64.jpg"
+  "image": "images/56.png"
  },
  {
   "id": 57,
@@ -510,7 +510,7 @@
   "type": "EDT",
   "price": 28,
   "category": "Perfumes",
-  "image": "images/66.jpg"
+  "image": "images/57.png"
  },
  {
   "id": 58,
@@ -519,7 +519,7 @@
   "type": "EDP",
   "price": 28,
   "category": "Perfumes",
-  "image": "images/67.jpg"
+  "image": "images/58.png"
  },
  {
   "id": 59,
@@ -528,7 +528,7 @@
   "type": "EDT",
   "price": 28,
   "category": "Perfumes",
-  "image": "images/68.jpg"
+  "image": "images/59.png"
  },
  {
   "id": 60,
@@ -537,7 +537,7 @@
   "type": "EDT",
   "price": 26,
   "category": "Perfumes",
-  "image": "images/69.jpg"
+  "image": "images/60.png"
  },
  {
   "id": 61,
@@ -546,7 +546,7 @@
   "type": "EDT",
   "price": 28,
   "category": "Perfumes",
-  "image": "images/70.jpg"
+  "image": "images/61.png"
  },
  {
   "id": 62,
@@ -555,16 +555,16 @@
   "type": "EDP",
   "price": 28,
   "category": "Perfumes",
-  "image": "images/72.jpg"
+  "image": "images/62.png"
  },
  {
   "id": 63,
   "name": "Tom Ford Amber Leather",
   "ml": 100,
   "type": "EDP",
-  "price": 30,
+  "price": 24,
   "category": "Perfumes",
-  "image": "images/71.jpg"
+  "image": "images/63.png"
  },
  {
   "id": 64,
@@ -573,16 +573,16 @@
   "type": "EDT",
   "price": 31,
   "category": "Perfumes",
-  "image": "images/73.jpg"
+  "image": "images/64.png"
  },
  {
   "id": 65,
   "name": "212 Men Sexy",
   "ml": 100,
   "type": "EDT",
-  "price": 32,
+  "price": 25,
   "category": "Perfumes",
-  "image": "images/74.jpg"
+  "image": "images/65.png"
  },
 
 
@@ -608,4 +608,3 @@
 
  
 ]
-
