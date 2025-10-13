@@ -3,15 +3,21 @@ body {
     font-family: "Poppins", sans-serif;
     background: #f3f4f6;
     color: #333;
+    margin: 0;
+    padding: 0;
 }
 
 /* ===================== NAVBAR ===================== */
 #mainNav {
     background: linear-gradient(90deg, #4f46e5, #ec4899);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
 }
 
 .navbar-brand {
     font-weight: 700;
+    font-size: 1.6rem;
+    letter-spacing: 1px;
+    color: white !important;
 }
 
 .gradient-text {
@@ -22,45 +28,57 @@ body {
 
 /* ===================== HERO ===================== */
 .hero-section {
-    height: 300px;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://via.placeholder.com/1200x400?text=Parcely+Showcase') no-repeat center center;
+    height: 320px;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+        url('https://via.placeholder.com/1200x400?text=Parcely+Showcase') no-repeat center center;
     background-size: cover;
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
 }
 
 .hero-section h1 {
     font-size: 3rem;
+    font-weight: 700;
 }
 
 .hero-section p {
     font-size: 1.2rem;
+    opacity: 0.9;
 }
 
-/* ===================== CATEGORIES ===================== */
+/* ===================== CATEGORY CARDS ===================== */
 #categoriesArea .cat-card {
     background: #fff;
-    border-radius: 12px;
-    padding: 20px;
+    border-radius: 16px;
+    padding: 25px;
     text-align: center;
     cursor: pointer;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-    border: 1px solid #ddd;
+    border: 1px solid #e2e8f0;
 }
 
 #categoriesArea .cat-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+    transform: translateY(-6px);
+    box-shadow: 0 12px 25px rgba(0, 0, 0, 0.15);
 }
 
-/* ===================== PRODUCTS ===================== */
+/* ===================== PRODUCT CARDS ===================== */
 #productsGrid .product-card {
     background: #fff;
-    border-radius: 12px;
+    border-radius: 14px;
     overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     border: 1px solid #e2e8f0;
+    text-align: center;
+    padding-bottom: 10px;
 }
 
 #productsGrid .product-card:hover {
@@ -68,26 +86,40 @@ body {
     box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
 }
 
+/* Product Image */
 .product-thumb img {
     width: 100%;
-    height: 220px;
+    height: 280px;
     object-fit: cover;
+    border-bottom: 1px solid #eee;
+    transition: transform 0.3s ease;
 }
 
+.product-thumb img:hover {
+    transform: scale(1.05);
+}
+
+/* Product Details */
 .product-name {
     font-weight: 600;
     font-size: 1.1rem;
+    margin-top: 12px;
+    color: #333;
 }
 
 .price-badge {
     font-weight: bold;
     color: #4f46e5;
+    margin-bottom: 10px;
+    font-size: 1rem;
 }
 
 /* ===================== FOOTER ===================== */
 footer {
     background: #1e1e1e;
     color: #fff;
+    padding: 40px 0;
+    margin-top: 60px;
 }
 
 footer .social i {
@@ -97,10 +129,70 @@ footer .social i {
 }
 
 footer a {
+    color: #fff;
+    text-decoration: none;
     transition: all 0.3s ease;
 }
 
 footer a:hover {
     color: #ec4899;
     text-decoration: underline;
+}
+
+/* ===================== RESPONSIVE ===================== */
+@media (max-width: 992px) {
+    .hero-section {
+        height: 260px;
+        padding: 40px 10px;
+    }
+
+    .hero-section h1 {
+        font-size: 2.2rem;
+    }
+
+    .hero-section p {
+        font-size: 1rem;
+    }
+
+    .product-thumb img {
+        height: 240px;
+    }
+}
+
+@media (max-width: 768px) {
+
+    #searchInput,
+    #sortSelect,
+    #minPrice,
+    #maxPrice {
+        font-size: 14px;
+        padding: 8px;
+    }
+
+    .product-card {
+        margin-bottom: 20px;
+    }
+
+    footer .social a {
+        display: block;
+        margin-bottom: 6px;
+    }
+}
+
+@media (max-width: 480px) {
+    .hero-section h1 {
+        font-size: 1.6rem;
+    }
+
+    .hero-section p {
+        font-size: 0.9rem;
+    }
+
+    .navbar-brand {
+        font-size: 1.3rem;
+    }
+
+    .product-thumb img {
+        height: 210px;
+    }
 }
