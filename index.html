@@ -4,9 +4,13 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Parcely | Perfume Store</title>
+    <title>Parcely | UK Stock for Resellers</title>
+
+    <!-- Bootstrap & Icons -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
     <link href="css/style.css" rel="stylesheet">
 </head>
 
@@ -14,26 +18,27 @@
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-dark shadow-sm sticky-top" id="mainNav">
         <div class="container">
-            <a class="navbar-brand fw-bold fs-3 gradient-text" href="#">Parcely</a>
+            <a class="navbar-brand gradient-text fw-bold" href="#">Parcely</a>
         </div>
     </nav>
 
     <!-- Hero Section -->
-    <section class="hero-section text-center text-white d-flex align-items-center justify-content-center">
+    <section class="hero-section text-center d-flex align-items-center justify-content-center">
         <div class="container">
-            <h1 class="display-4 fw-bold">Parcely — UK Stock for Resellers</h1>
-            <p class="lead">Explore curated products ready for resale. Perfumes, shoes, jackets, and more!</p>
+            <h1 class="fw-bold display-5">Parcely — UK Stock for Resellers</h1>
+            <p class="lead mt-3">Discover top-quality perfumes, shoes, jackets, and more — all ready for resale.</p>
         </div>
     </section>
 
+    <!-- Main Content -->
     <div class="container my-5">
 
-        <!-- Filters Bar -->
-        <div class="row mb-4">
-            <div class="col-md-3 mb-2">
+        <!-- Filter Bar -->
+        <div class="row mb-4 g-2">
+            <div class="col-md-3 col-sm-6">
                 <input type="text" id="searchInput" class="form-control" placeholder="🔍 Search products...">
             </div>
-            <div class="col-md-3 mb-2">
+            <div class="col-md-3 col-sm-6">
                 <select id="sortSelect" class="form-select">
                     <option value="default">Sort by</option>
                     <option value="priceLowHigh">Price: Low to High</option>
@@ -42,10 +47,10 @@
                     <option value="nameZA">Name: Z–A</option>
                 </select>
             </div>
-            <div class="col-md-3 mb-2">
+            <div class="col-md-3 col-sm-6">
                 <input type="number" id="minPrice" class="form-control" placeholder="Min Price (£)">
             </div>
-            <div class="col-md-3 mb-2">
+            <div class="col-md-3 col-sm-6">
                 <input type="number" id="maxPrice" class="form-control" placeholder="Max Price (£)">
             </div>
         </div>
@@ -58,12 +63,12 @@
     </div>
 
     <!-- Footer -->
-    <footer class="py-4 bg-dark text-white text-center">
+    <footer class="text-center text-white py-4">
         <div class="container">
             <div class="social mb-3">
                 <a href="https://www.instagram.com/parc_ely/" target="_blank"
                     class="me-3 text-white text-decoration-none">
-                    <i class="bi bi-instagram"></i> Instagram: @Parcely-UK
+                    <i class="bi bi-instagram"></i> Instagram: @ParcelyUK
                 </a>
                 <a href="https://www.tiktok.com/@parcely_uk?is_from_webapp=1&sender_device=pc" target="_blank"
                     class="me-3 text-white text-decoration-none">
@@ -71,13 +76,14 @@
                 </a>
                 <a href="https://www.facebook.com/profile.php?id=61581790667111" target="_blank"
                     class="text-white text-decoration-none">
-                    <i class="bi bi-facebook"></i> Facebook: Parcely-UK
+                    <i class="bi bi-facebook"></i> Facebook: ParcelyUK
                 </a>
             </div>
             <p class="mb-0 text-muted">&copy; <span id="year"></span> Parcely. All rights reserved.</p>
         </div>
     </footer>
 
+    <!-- Scripts -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
     <script src="js/script.js"></script>
 </body>
