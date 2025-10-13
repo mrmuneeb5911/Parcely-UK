@@ -107,4 +107,3 @@ function applyFilters() {
     state.products = filtered;
     renderProducts(filtered);
 }
-
